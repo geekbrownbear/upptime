@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 616,
-    "timeWeek": 616,
-    "timeMonth": 616,
-    "timeYear": 616,
+    "time": 545,
+    "timeDay": 545,
+    "timeWeek": 545,
+    "timeMonth": 545,
+    "timeYear": 545,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 196,
-    "timeWeek": 196,
-    "timeMonth": 196,
-    "timeYear": 196,
+    "time": 138,
+    "timeDay": 138,
+    "timeWeek": 138,
+    "timeMonth": 138,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   },
   {
@@ -46,13 +46,31 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 76,
-    "timeDay": 76,
-    "timeWeek": 76,
-    "timeMonth": 76,
-    "timeYear": 76,
+    "time": 70,
+    "timeDay": 70,
+    "timeWeek": 70,
+    "timeMonth": 70,
+    "timeYear": 70,
     "dailyMinutesDown": {
-      "2026-01-23": 0
+      "2026-01-23": 17
     }
+  },
+  {
+    "name": "Microsoft Admin Center Status",
+    "url": "https://status.cloud.microsoft/",
+    "icon": "https://icons.duckduckgo.com/ip3/status.cloud.microsoft.ico",
+    "slug": "microsoft-admin-center-status",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 81,
+    "timeDay": 81,
+    "timeWeek": 81,
+    "timeMonth": 81,
+    "timeYear": 81,
+    "dailyMinutesDown": {}
   }
 ]
