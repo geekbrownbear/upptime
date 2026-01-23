@@ -9,6 +9,10 @@ sites:
     url: https://www.google.com
   - name: Microsoft.com
     url: https://www.microsoft.com
+  - name: Microsoft Admin Center Status
+    url: https://status.cloud.microsoft/
+    __dangerous__body_down_if_text_exists: "ServiceDegradation"
+#    icon: https://res-1.cdn.office.net/admincenter/2023.11.15.1/favicon.ico  
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 #  - name: IPv6 test
@@ -22,15 +26,18 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.bearium.net
   # baseUrl: /$REPO
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: night
+  logoUrl: https://bearnet.blob.core.windows.net/logo/BearNetBear.svg
+  favicon: https://bearnet.blob.core.windows.net/icon/favicon-32x32.png
+  faviconSvg: https://bearnet.blob.core.windows.net/logo/BearNetBear.svg
   name: Bearium Networks Status Page
   introTitle: "A Status Page for Bearium Networks services"
-  introMessage: This status page shows the the status of different services in our client network. \n Green is good! Red is bad! #which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This status page shows the status of different services in our client network. #which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
