@@ -9,8 +9,8 @@ sites:
     url: https://www.google.com
   - name: Microsoft.com
     url: https://www.microsoft.com
-  - name: Microsoft Admin Center Status
-    url: https://status.cloud.microsoft/
+#  - name: Microsoft Admin Center Status
+#    url: https://status.cloud.microsoft/
     __dangerous__body_down_if_text_exists: "ServiceDegradation"
 #    icon: https://res-1.cdn.office.net/admincenter/2023.11.15.1/favicon.ico  
 #  - name: Test Broken Site
