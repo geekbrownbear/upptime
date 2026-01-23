@@ -24,8 +24,8 @@ status-website:
   # baseUrl: /$REPO
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Bearium Networks Status Page
-  introTitle: "A Status Page for a variety of Bearium Networks services"
-  introMessage: This status page shows the the status of different services in our client network. Green is good! Red is bad! #which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "A Status Page for Bearium Networks services"
+  introMessage: This status page shows the the status of different services in our client network. \n Green is good! Red is bad! #which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
