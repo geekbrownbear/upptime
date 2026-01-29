@@ -4,18 +4,20 @@
     "url": "https://bearium.net",
     "icon": "https://icons.duckduckgo.com/ip3/bearium.net.ico",
     "slug": "bearium-networks-bearium-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 463,
-    "timeWeek": 704,
-    "timeMonth": 704,
-    "timeYear": 704,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 692,
+    "timeDay": 523,
+    "timeWeek": 692,
+    "timeMonth": 692,
+    "timeYear": 692,
+    "dailyMinutesDown": {
+      "2026-01-29": 19
+    }
   },
   {
     "name": "Google.com",
@@ -52,7 +54,7 @@
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-01-29": 958,
+      "2026-01-29": 977,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
